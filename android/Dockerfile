@@ -30,7 +30,7 @@ ENV PJSIP_DOWNLOAD_URL "http://www.pjsip.org/release/2.7.1/pjproject-2.7.1.tar.b
 
 ENV SWIG_DOWNLOAD_URL "http://prdownloads.sourceforge.net/swig/swig-3.0.7.tar.gz"
 
-ENV OPENSSL_DOWNLOAD_URL "https://www.openssl.org/source/openssl-1.0.2g.tar.gz"
+ENV OPENSSL_DOWNLOAD_URL "https://www.openssl.org/source/openssl-1.1.1g.tar.gz"
 
 ENV OPENH264_DOWNLOAD_URL "https://github.com/cisco/openh264/archive/v1.7.0.tar.gz"
 ENV OPENH264_TARGET_NDK_LEVEL 23
